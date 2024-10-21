@@ -1,0 +1,5 @@
+git clone https://github.com/aicha-chadli/git-begins.git
+git add .
+git commit -m "hello"
+git oush origin main
+
